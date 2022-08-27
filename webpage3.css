@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    justify-content: space-between;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    height: 5vh;
+    align-items: center;
+}
+
+.header-left{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.heroTitleone{
+    color: white;
+    margin-bottom: 37px;
+    margin-left: 120px;
+    margin-top: 69px;
+    font-size: larger;
+}
+
+.herop1{
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+
+.heropicture{
+    margin-left: 120px;
+}
+
+.herop-Group{
+    color: white;
+    margin-top: 10px;
+    margin-left: 120px;
+}

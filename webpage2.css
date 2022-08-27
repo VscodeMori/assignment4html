@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    height: 5vh;
+    align-items: center;
+}
+
+.header-left{
+    color: white;
+
+}
+
+.heroleft-group{
+    color: white;
+    margin-right: 25px;
+    margin-top: 80px;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.heroh4{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+
+.heroh6{
+    margin-bottom: 12px;
+    font-size: medium;
+}
+
+.herop1{
+    margin-bottom: 7px;
+}
+
+.h6hero{
+    margin-bottom: 12px;
+    margin-top: 12px;
+    font-size: medium;
+}
+
+.herop2{
+    margin-bottom: 40px;
+}
+
+.herop3{
+    margin-bottom: 15px;
+}
+
+.herop4{
+    margin-bottom: 15px;
+}
+
+.herop5{
+    margin-bottom: 15px;
+}
+
+.herop6{
+    margin-bottom: 10px;
+}
+
+.form-input{
+    display: flex;
+    flex-direction: column;
+}
