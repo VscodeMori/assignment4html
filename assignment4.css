@@ -6,6 +6,7 @@
 
 body {
     background-color: black;
+    font-family: "century gothic";
 }
 .header{
     display: flex;
